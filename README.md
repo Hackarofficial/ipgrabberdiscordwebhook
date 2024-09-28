@@ -7,3 +7,4 @@
 - and replace redirect website also if you want depends on you
 - replace discrord webhook is must if its not there code will not work
  
+> dont forget to star 
