@@ -1,3 +1,9 @@
 # ip grabber 
-- this ip grabber grabs only when the button is pressed
-- if you want the ip when the web loads you can use onload function and link it to the main function 
+- onclick ip grabber grabs only when the button is pressed
+- onload ip grabber only works when website is fully loaded
+
+# how to use 
+- to use this replace discord webhok to your actual discord webhoo
+- and replace redirect website also if you want depends on you
+- replace discrord webhook is must if its not there code will not work
+ 
